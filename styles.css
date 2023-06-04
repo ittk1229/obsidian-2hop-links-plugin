@@ -37,6 +37,10 @@
 }
 
 /* common */
+.twohop-links-section {
+  margin-bottom: 30px;
+}
+
 .twohop-links-section:after {
   content: "";
   display: block;
